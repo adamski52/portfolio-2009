@@ -1,0 +1,187 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<all>
+	<section>
+		<title>PROJECTS</title>
+		<color>f4ac00</color>
+		<location>factory</location>
+		<elements color="ffffff" size="20" titleColor="ffffff" titleSize="28" goText="Launch project" goSize="16" goColor="ffcc00" goOverColor="ffffff">
+			<element>
+				<tn>projects/tn/wtu.png</tn>
+				<img>projects/wtu.swf</img>
+				<title>What The URL</title>
+				<url>http://www.whattheurl.com/</url>
+				<desc>I designed and programmed this bookmarking site in one weekend.  It allows you to track bookmarks across any browser on any computer.</desc>
+			</element>
+			<element>
+				<tn>projects/tn/jna.png</tn>
+				<img>projects/jna.png</img>
+				<title>Jonathan Adamski</title>
+				<url>http://www.jonathanadamski.com/portfolio/jna/</url>
+				<desc>My old portfolio.  Same work mostly but it's *so* last year!</desc>
+			</element>
+			<element>
+				<tn>projects/tn/mp.png</tn>
+				<img>projects/mp-big.png</img>
+				<title>Melissa Pierce</title>
+				<url>http://www.jonathanadamski.com/portfolio/mpierce/</url>
+				<desc>I helped my employer's summer intern conceptualize, design and program this web-based presentation about her internship.</desc>
+			</element>
+			<element>
+				<tn>projects/tn/d1-0.png</tn>
+				<img>projects/d1-0.swf</img>
+				<title>Operate an automobile.</title>
+				<url></url>
+				<desc>I am not, under any circumstances, to say that I designed and programmed nine web-based training courses for an American automotive company.</desc>
+			</element>
+			<element>
+				<tn>projects/tn/bc.png</tn>
+				<img>projects/bc.png</img>
+				<title>Insurance</title>
+				<url></url>
+				<desc>I may have designed a new homepage for an insurance agency, I don't remember.  Sorry... my lawyers say you can't view this project.</desc>
+			</element>
+			<element>
+				<tn>projects/tn/vp.png</tn>
+				<img>projects/vp1.swf</img>
+				<title>Insurnace partner</title>
+				<url></url>
+				<desc>I may have designed these concepts for an insurance agency's promotional site, but I'm not certain about that.  Sorry... my lawyers say you can't view this project.</desc>
+			</element>
+			<element>
+				<tn>projects/tn/vp2.png</tn>
+				<img>projects/vp2.swf</img>
+				<title>Insurnace partner</title>
+				<url></url>
+				<desc>I may have designed several concepts for an insurance agency's partnership program with doctors and hospitals, but it's difficult to know for sure.  Sorry... my lawyers say you can't view this project.</desc>
+			</element>
+			<element>
+				<tn>projects/tn/astar.png</tn>
+				<img>projects/astar.png</img>
+				<title>A* (A Star)</title>
+				<url>http://www.jonathanadamski.com/portfolio/astar/</url>
+				<desc>It took me two hours to program this ActionScript 3 path-finding algorithm that takes in to account terrain difficulty. It was obviously not an adventure in graphic design!</desc>
+			</element>
+			<element>
+				<tn>projects/tn/drums.png</tn>
+				<img>projects/drums.png</img>
+				<title>Drum machine</title>
+				<url>http://www.jonathanadamski.com/portfolio/drums/</url>
+				<desc>A simple and awful sounding sound sequencer (drum machine).  This was coded in ActionScript 3 in approximately 3 hours.</desc>
+			</element>
+			<element>
+				<tn>projects/tn/penguin.png</tn>
+				<img>projects/penguin.png</img>
+				<title>Penguin game</title>
+				<url>http://www.jonathanadamski.com/portfolio/penguin/</url>
+				<desc>As part of a job application, I was asked to design and program a game in ActionScript 2 in one hour.  This is the result!  Oh, and I got the job - thanks for asking.</desc>
+			</element>
+			<element>
+				<tn>projects/tn/shellgame.png</tn>
+				<img>projects/shellgame.png</img>
+				<title>Shell Game</title>
+				<url>http://www.jonathanadamski.com/portfolio/shellgame/</url>
+				<desc>As part of a promotion for a Japanese automotive company, I was tasked with creating several microgames. The project was cancelled so I (crudely) rethemed a few.</desc>
+			</element>
+			<element>
+				<tn>projects/tn/simon.png</tn>
+				<img>projects/simon.png</img>
+				<title>Simon Game</title>
+				<url>http://www.jonathanadamski.com/portfolio/simon/</url>
+				<desc>As part of a promotion for a Japanese automotive company, I was tasked with creating several microgames. The project was cancelled so I (crudely) rethemed a few.</desc>
+			</element>
+			<element>
+				<tn>projects/tn/spiro.png</tn>
+				<img>projects/spiro.png</img>
+				<title>Spirograph</title>
+				<url>http://www.jonathanadamski.com/portfolio/spiro/</url>
+				<desc>One of my first assignments in school was to program a Spirograph in C++/OpenGL.  I did so, and later ported it to ActionScript 2.  Click to re-randomize.</desc>
+			</element>
+			<element>
+				<tn>projects/tn/ff.png</tn>
+				<img>projects/ff.png</img>
+				<title>Introducing the new [censored]!</title>
+				<url></url>
+				<desc>As part of a promotion for [car company]'s new [car], I was comissioned to produce an email campaign to introduce employees to the product.  Sorry... my lawyers *definitely* say you can't view this project.</desc>
+			</element>
+			<element>
+				<tn>projects/tn/avenger.png</tn>
+				<img>projects/avenger.swf</img>
+				<title>Dodge Avenger</title>
+				<url></url>
+				<desc>I seem to remember programming several tests and dynamic exercises for this web-based automotive course. My lawyers say you can't see it though, just in case I'm wrong.</desc>
+			</element>
+		</elements>
+	</section>
+	<section>
+		<title>SKILLS</title>
+		<color>68ca00</color>
+		<location>houses</location>
+		<elements default="Skill-o-meter: " itemHeight="80" itemWidth="80" titleSize="20" titleColor="ffffff" barWidth="360" barHeight="70" skillWidth="340" skillHeight="25" skillX="10" skillY="35" skillColor="caff91">
+			<element square="false" skill="1" skillName="HTML">skills/html.png</element>
+			<element square="false" skill="1" skillName="CSS">skills/css.png</element>
+			<element square="false" skill="1" skillName="JavaScript">skills/javascript.png</element>
+			<element square="false" skill="1" skillName="XML">skills/xml.png</element>
+			<element skill="1" skillName="jQuery">skills/jquery.png</element>
+			<element skill="1" skillName="Flash/ActionScript">skills/flash.png</element>
+			<element skill="1" skillName="Photoshop/Web Design">skills/photoshop.png</element>
+			<element skill="1" skillName="Dreamweaver/Hand-coding">skills/dreamweaver.png</element>
+			<element skill=".8" skillName="Fireworks">skills/fireworks.png</element>
+			<element skill=".7" skillName="Illustrator">skills/illustrator.png</element>
+			<element skill=".9" skillName="ColdFusion">skills/coldfusion.png</element>
+			<element skill=".95" skillName="PHP 4/5">skills/php.png</element>
+			<element skill=".95" skillName="MySQL/MSSQL/Oracle">skills/mysql.png</element>
+			<element skill="1" skillName="RSS">skills/rss.png</element>
+			<element skill=".95" skillName="Adobe AIR">skills/air.png</element>
+			<element skill=".7" skillName="Android OS">skills/android.png</element>
+		</elements>
+	</section>
+	<section>
+		<title>RESUME</title>
+		<color>ba00d0</color>
+		<location>trees</location>
+		<elements titleColor="ba00d0" titleSize="20" color="ffffff" size="16">
+			<element x="-70" y="10">
+				<img x="0" y="0">resume/nondisclosure.png</img>
+				<title width="290" x="110" y="0">Non-disclosure!</title>
+				<desc width="290" x="110" y="42">It is a funny thing of the creative world...  employers always want to see work samples, but then you're bound to a non-disclosure agreement. Here, then, are some companies that I can't much discuss!</desc>
+			</element>
+			<element x="-50" y="163">
+				<img x="0" y="0">resume/bcbsm.png</img>
+				<title width="230" x="160" y="0">Blue Cross Blue Shield of Michigan</title>
+				<desc width="230" x="160" y="42">Senior Web Designer</desc>
+			</element>
+			<element x="-10" y="250">
+				<img x="0" y="0">resume/raytheon.png</img>
+				<title width="210" x="130" y="0">Raytheon Professional Services</title>
+				<desc width="210" x="130" y="42">Graphic Designer</desc>
+			</element>
+			<element x="15" y="340">
+				<img x="0" y="0">resume/ford.png</img>
+				<title width="150" x="170" y="0">Ford Motor Company</title>
+				<desc width="150" x="170" y="42">Web Design Team Lead</desc>
+			</element>
+			<element x="40" y="430">
+				<img x="0" y="0">resume/mediagenesis.png</img>
+				<title width="120" x="110" y="0">Media Genesis</title>
+				<desc width="120" x="110" y="42">Creative Programmer</desc>
+			</element>
+		</elements>
+	</section>
+	<section>
+		<title>MAKE CONTACT</title>
+		<color>005092</color>
+		<location>volcano</location>
+		<elements btnColor="ffffff" btnColorOver="ffcc00" btnSize="16" goText="Submit" defaultName="Your e-mail address:" defaultMessage="Your message:" inputSize="20" inputColor="ffffff" itemWidth="92" itemHeight="92" arrow="contact/arrow.png">
+			<element>contact/galaxy.png</element>
+			<element>contact/earth.png</element>
+			<element>contact/usa.png</element>
+			<element>contact/me.png</element>
+			<element>contact/detroit.png</element>
+			<element>contact/mi.png</element>
+		</elements>
+	</section>
+	<section x="150" y="100">
+		<color>ff4200</color>
+		<desc width="300" size="20" color="FFFFFF">Hello.  Welcome to my portfolio.  It's neat.  Hope you like it.</desc>
+	</section>
+</all>
